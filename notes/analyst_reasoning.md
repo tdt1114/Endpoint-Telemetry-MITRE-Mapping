@@ -1,0 +1,1 @@
+While the encoded PowerShell execution in this lab was benign, similar patterns are frequently associated with obfuscation techniques. In a production environment, this behavior would prompt validation of parent process, user context, host role, and surrounding activity before escalation.
